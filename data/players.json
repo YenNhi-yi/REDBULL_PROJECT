@@ -1,0 +1,89 @@
+[
+    {
+        "username": "teo",
+        "password": "123",
+        "unlocked_regions": [
+            "TayBacBo"
+        ],
+        "collected_cards": [
+            {
+                "province": "DienBien",
+                "title": null,
+                "image": null
+            }
+        ]
+    },
+    {
+        "username": "ty",
+        "password": "456",
+        "unlocked_regions": [
+            "TayBacBo",
+            "DongBacBo"
+        ],
+        "collected_cards": []
+    },
+    {
+        "username": "nhi",
+        "password": "234",
+        "unlocked_regions": [
+            "TayBacBo"
+        ],
+        "collected_cards": []
+    },
+    {
+        "username": "nhà",
+        "password": "174",
+        "unlocked_regions": [
+            "TayBacBo"
+        ],
+        "collected_cards": []
+    },
+    {
+        "username": "huy",
+        "password": "241",
+        "unlocked_regions": [
+            "TayBacBo"
+        ],
+        "collected_cards": []
+    },
+    {
+        "username": "hà",
+        "password": "795",
+        "unlocked_regions": [
+            "TayBacBo"
+        ],
+        "collected_cards": []
+    },
+    {
+        "username": "hi",
+        "password": "098",
+        "unlocked_regions": [
+            "TayBacBo"
+        ],
+        "collected_cards": []
+    },
+    {
+        "username": "redbullteam",
+        "password": "123456789",
+        "unlocked_regions": [
+            "TayBacBo"
+        ],
+        "collected_cards": []
+    },
+    {
+        "username": "redbullloveme",
+        "password": "123456",
+        "unlocked_regions": [
+            "TayBacBo"
+        ],
+        "collected_cards": []
+    },
+    {
+        "username": "redbullwithlove",
+        "password": "ilovektlt",
+        "unlocked_regions": [
+            "TayBacBo"
+        ],
+        "collected_cards": []
+    }
+]
